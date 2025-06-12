@@ -1,2 +1,4 @@
 # bookstore-powerbi-dashboard
-A Power BI dashboard showing sales, revenue, top-selling books, and performance trends for a bookstore.
+A professional Power BI dashboard built to analyze sales data from a fictional bookstore. It provides clear insights into total revenue, top-selling books, customer preferences, and monthly sales trends.
+
+
